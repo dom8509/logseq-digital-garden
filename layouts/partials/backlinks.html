@@ -2,8 +2,9 @@
   .Site.RegularPages }} {{ if and (findRE $re .RawContent) (not (eq
   $re .File.BaseFileName)) }} {{ $backlinks = $backlinks | append . }} {{ end }}
   {{ end }} {{ if gt (len $backlinks) 0 }}
-  <hr>
+  
   <aside class="backlinks">
+    <hr>
     <h3>Backlinks</h3>
     <div>
       <ul>
@@ -22,6 +23,7 @@
   <aside class="related">
     {{ $related := .Site.RegularPages.Related . | complement $backlinks | first 3
     -}} {{ with $related -}}
+    <hr>
     <h3>slightly related</h3>
     <ul>
       {{ range . -}}

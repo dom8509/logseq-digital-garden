@@ -429,6 +429,18 @@ h6:hover .anchor {
     text-align: left;
 }
 
-.backlinks .related {
-    margin-top: 30px;
+.backlinks, .related {
+    margin-top: 50px;
+}
+
+.backlinks ol,
+.backlinks ul,
+.related ol,
+.related ul {
+    padding-inline-start: 20px;
+}
+
+.backlinks li,
+.related li {
+    margin-top: 5px;
 }
