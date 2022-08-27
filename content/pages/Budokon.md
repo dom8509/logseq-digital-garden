@@ -3,7 +3,7 @@ title: Budokon
 tags:
 categories:
 date: 2022-07-06
-lastMod: 2022-08-26
+lastMod: 2022-08-25
 ---
 {{< youtube SVo1kRQsS8I >}}
 
@@ -15,5 +15,8 @@ Budokon ist ein Mixed Movement Art System das etwa Mitte der 2000er von Cameron 
 
 Budokon besteht aus den Yoga, Free Form Movement, Calesthenics, Martial Arts
 
+
+
+[[Budokon Origin Story (Essay)]]
 
 

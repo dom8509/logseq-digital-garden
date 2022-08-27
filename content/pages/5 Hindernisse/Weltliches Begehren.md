@@ -76,4 +76,8 @@ Ich will eine erfolgreiche Karriere damit ich glücklich bin ...
 
 # Siehe auch:
 
-{{namespace 5 Hindernisse}}
+**Namespace [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})**
+
+  + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
+
+

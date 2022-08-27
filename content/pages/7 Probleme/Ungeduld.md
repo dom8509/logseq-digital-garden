@@ -31,4 +31,8 @@ Ungedult entsteht durch die selben Hindernisse wie [[7 Probleme/Ablenkungen, Ver
 
 # Siehe auch:
 
-{{namespace 7 Probleme}}
+**Namespace [[7 Probleme]]**
+
+  + [Ungeduld]({{< ref "/pages/7 Probleme/Ungeduld" >}})
+
+

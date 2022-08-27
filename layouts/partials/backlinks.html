@@ -2,9 +2,10 @@
   .Site.RegularPages }} {{ if and (findRE $re .RawContent) (not (eq
   $re .File.BaseFileName)) }} {{ $backlinks = $backlinks | append . }} {{ end }}
   {{ end }} {{ if gt (len $backlinks) 0 }}
-  <aside>
+  <hr>
+  <aside class="backlinks">
     <h3>Backlinks</h3>
-    <div class="backlinks">
+    <div>
       <ul>
         {{ range $backlinks }}
         <li class="capitalize"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
