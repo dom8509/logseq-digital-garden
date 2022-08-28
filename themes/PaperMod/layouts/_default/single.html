@@ -5,7 +5,8 @@
     {{ partial "breadcrumbs.html" . }}
     
     <h1 class="post-title">
-      {{ .Title }}
+      {{ $pagePath := path.Split .Title }}
+      {{ $pagePath.File }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h1>
     {{- if .Description }}
