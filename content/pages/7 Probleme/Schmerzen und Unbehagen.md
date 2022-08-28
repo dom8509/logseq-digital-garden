@@ -51,6 +51,6 @@ Dies können z.B. Schmerzen im Rücken oder in den Knien aber auch ein Jucken an
 
   + [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
-  + [Dumpfheit, Benommenheit und Schlaefrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schlaefrigkeit" >}})
+  + [Dumpfheit, Benommenheit und Schläfrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schläfrigkeit" >}})
 
 

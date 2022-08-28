@@ -1,5 +1,5 @@
 ---
-title: 7 Probleme/Dumpfheit, Benommenheit und Schlaefrigkeit
+title: 7 Probleme/Dumpfheit, Benommenheit und Schläfrigkeit
 tags:
 categories:
 date: 2022-08-24
@@ -9,7 +9,7 @@ zurück: [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
 
 
-Dumpfheit Benommenheit und Schlaefrigkeit wird meist durch Lethargie während der Praxis verursacht. Der Geist wendet weniger Energie dafür auf das die Aufmerksamkeit klar uns stabil zu halten und schaltet in einen Energiesparmodus.
+Dumpfheit Benommenheit und Schläfrigkeit wird meist durch Lethargie während der Praxis verursacht. Der Geist wendet weniger Energie dafür auf das die Aufmerksamkeit klar uns stabil zu halten und schaltet in einen Energiesparmodus.
 
 
 
@@ -47,6 +47,6 @@ Dumpfheit Benommenheit und Schlaefrigkeit wird meist durch Lethargie während de
 
   + [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
-  + [Dumpfheit, Benommenheit und Schlaefrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schlaefrigkeit" >}})
+  + [Dumpfheit, Benommenheit und Schläfrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schläfrigkeit" >}})
 
 

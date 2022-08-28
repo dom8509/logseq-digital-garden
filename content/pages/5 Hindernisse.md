@@ -19,7 +19,7 @@ zurück: [The Mind Illuminated]({{< ref "/pages/The Mind Illuminated" >}})
 
   + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
 
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
+  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 
 
 

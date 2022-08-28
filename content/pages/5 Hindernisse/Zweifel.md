@@ -1,5 +1,5 @@
 ---
-title: 5 Hindernisse/Zwäfel
+title: 5 Hindernisse/Zweifel
 tags:
 categories:
 date: 2022-08-13
@@ -71,6 +71,6 @@ Ich bin nicht gut genug, klug genug, schnell genug, ...
 
   + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
 
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
+  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 
 

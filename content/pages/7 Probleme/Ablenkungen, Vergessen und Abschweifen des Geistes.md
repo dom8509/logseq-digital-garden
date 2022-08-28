@@ -21,7 +21,7 @@ zurück: [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
   + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
 
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
+  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 
 
 
@@ -57,6 +57,6 @@ zurück: [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
   + [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
-  + [Dumpfheit, Benommenheit und Schlaefrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schlaefrigkeit" >}})
+  + [Dumpfheit, Benommenheit und Schläfrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schläfrigkeit" >}})
 
 

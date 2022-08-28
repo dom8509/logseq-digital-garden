@@ -21,7 +21,7 @@ Monkey-Mind beschreibt den Zustand des Geistes der ständig von einer Sache zur 
 
   + [Unruhe aufgrund von Gewissensbissen und Sorgen]({{< ref "/pages/5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen" >}})
 
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
+  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 
   + 
 
@@ -47,6 +47,6 @@ Monkey-Mind beschreibt den Zustand des Geistes der ständig von einer Sache zur 
 
   + [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
-  + [Dumpfheit, Benommenheit und Schlaefrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schlaefrigkeit" >}})
+  + [Dumpfheit, Benommenheit und Schläfrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schläfrigkeit" >}})
 
 

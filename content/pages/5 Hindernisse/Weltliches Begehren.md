@@ -86,6 +86,6 @@ Ich will eine erfolgreiche Karriere damit ich glücklich bin ...
 
   + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
 
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
+  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 
 

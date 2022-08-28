@@ -9,7 +9,7 @@ zurück: [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
 
 
-Prokrastination entsteht entsteht durch Traegheit, wenn man nicht voll davon überzeugt ist, dass die eigene Meditationspraxis die Zeit und Mühen nicht wert ist. Die Kosten übersteigen rechtfertigen einfach nicht den nutzen. Auch Zweifel an die eigene Praxis an die eigene Praxis und deren Erfolg erzeugt einen inneren Widerstand der uns davon abhält regelmäßig zu praktizieren.
+Prokrastination entsteht entsteht durch Trägheit, wenn man nicht voll davon überzeugt ist, dass die eigene Meditationspraxis die Zeit und Mühen nicht wert ist. Die Kosten übersteigen rechtfertigen einfach nicht den nutzen. Auch Zweifel an die eigene Praxis an die eigene Praxis und deren Erfolg erzeugt einen inneren Widerstand der uns davon abhält regelmäßig zu praktizieren.
 
 
 
@@ -17,7 +17,7 @@ Prokrastination entsteht entsteht durch Traegheit, wenn man nicht voll davon üb
 
   + [Trägheit und Lethargie]({{< ref "/pages/5 Hindernisse/Trägheit und Lethargie" >}})
 
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
+  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 
   + 
 
@@ -43,6 +43,6 @@ Prokrastination entsteht entsteht durch Traegheit, wenn man nicht voll davon üb
 
   + [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
-  + [Dumpfheit, Benommenheit und Schlaefrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schlaefrigkeit" >}})
+  + [Dumpfheit, Benommenheit und Schläfrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schläfrigkeit" >}})
 
 
