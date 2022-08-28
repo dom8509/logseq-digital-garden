@@ -1,5 +1,6 @@
 ---
-title: 7 Probleme/Schmerzen und Unbehagen
+title: Schmerzen und Unbehagen
+namespace: 7 Probleme
 tags:
 categories:
 date: 2022-08-12

@@ -1,5 +1,6 @@
 ---
-title: 5 Hindernisse/Abneigung
+title: Abneigung
+namespace: 5 Hindernisse
 tags:
 categories:
 date: 2022-08-13

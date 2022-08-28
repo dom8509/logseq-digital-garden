@@ -1,5 +1,6 @@
 ---
-title: 7 Probleme/Monkey-Mind
+title: Monkey-Mind
+namespace: 7 Probleme
 tags:
 categories:
 date: 2022-06-04

@@ -1,5 +1,6 @@
 ---
-title: 5 Hindernisse/Zweifel
+title: Zweifel
+namespace: 5 Hindernisse
 tags:
 categories:
 date: 2022-08-13

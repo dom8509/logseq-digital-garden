@@ -27,7 +27,11 @@
 {{- $pages := union .RegularPages .Sections }}
 
 {{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- if .Param "ListSubpages" }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections}}
+{{- else }}
+{{- $pages = where (where site.RegularPages "Type" "in" site.Params.mainSections) "Params.namespace" "==" nil }}
+{{- end }}
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}
@@ -38,7 +42,6 @@
 
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
-{{- if (or (.Param "ListSubpages") (not (path.Split $page.Title).Dir)) }}
 
 {{- $class := "post-entry" }}
 
@@ -84,8 +87,6 @@
   </nav>
 </footer>
 {{- end }}
-
-{{- end }}{{/* end of ListSubpages */}}
 
 {{- end }}{{/* end profileMode */}}
 

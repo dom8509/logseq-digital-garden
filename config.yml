@@ -14,7 +14,7 @@ params:
     - name: "github"
       url: "https://github.com/dom8509"
   ShowReadingTime: true
-  ListSubpages: true
+  ListSubpages: false
   disableAnchoredHeadings: false
   author: "Dominik Stamm"
   contact: "movement.king.dom@icloud.com"

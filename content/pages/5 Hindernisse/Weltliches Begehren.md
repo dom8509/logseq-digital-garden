@@ -1,5 +1,6 @@
 ---
-title: 5 Hindernisse/Weltliches Begehren
+title: Weltliches Begehren
+namespace: 5 Hindernisse
 tags:
 categories:
 date: 2022-08-13

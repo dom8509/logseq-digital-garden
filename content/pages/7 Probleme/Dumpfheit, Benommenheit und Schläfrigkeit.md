@@ -1,5 +1,6 @@
 ---
-title: 7 Probleme/Dumpfheit, Benommenheit und Schläfrigkeit
+title: Dumpfheit, Benommenheit und Schläfrigkeit
+namespace: 7 Probleme
 tags:
 categories:
 date: 2022-08-24

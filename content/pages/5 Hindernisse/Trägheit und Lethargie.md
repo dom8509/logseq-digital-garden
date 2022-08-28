@@ -1,5 +1,6 @@
 ---
-title: 5 Hindernisse/Trägheit und Lethargie
+title: Trägheit und Lethargie
+namespace: 5 Hindernisse
 tags:
 categories:
 date: 2022-08-13

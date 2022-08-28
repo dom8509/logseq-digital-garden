@@ -1,5 +1,6 @@
 ---
-title: 7 Probleme/Selbstzweifel
+title: Selbstzweifel
+namespace: 7 Probleme
 tags:
 categories:
 date: 2022-08-13

@@ -1,5 +1,6 @@
 ---
-title: 7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes
+title: Ablenkungen, Vergessen und Abschweifen des Geistes
+namespace: 7 Probleme
 tags:
 categories:
 date: 2022-08-23

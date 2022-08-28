@@ -1,5 +1,6 @@
 ---
-title: 5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen
+title: Unruhe aufgrund von Gewissensbissen und Sorgen
+namespace: 5 Hindernisse
 tags:
 categories:
 date: 2022-08-13
