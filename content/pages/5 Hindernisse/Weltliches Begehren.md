@@ -50,7 +50,7 @@ Wie bereits erwähnt kann das eine nicht ohne das andere existieren. Es ist dahe
 
 ## Unification of Mind
 
-Der Meditative Faktor der uns dabei hilft, das weltliche Begehren zu überwinden ist [[Unification of Mind]]. Wenn wir im tiefsten inneren verstehen, dass alles eins ist, dass z.B. Freude und Leid, Besitz und Verlust unweigerlich zusammen gehören und nur 2 Seiten der selben Medaille sind, dann können wir sogar das auf den erstem Blick unangenehm Akzeptieren und wertschätzen, da es das andere wieder hervorbringt. In einem Geist der dies verstanden hat gibt es keinen Grund mehr nach "unnötigem" weltlichen Verlangen.
+Der Meditative Faktor der uns dabei hilft, das weltliche Begehren zu überwinden ist Unification of Mind. Wenn wir im tiefsten inneren verstehen, dass alles eins ist, dass z.B. Freude und Leid, Besitz und Verlust unweigerlich zusammen gehören und nur 2 Seiten der selben Medaille sind, dann können wir sogar das auf den erstem Blick unangenehm Akzeptieren und wertschätzen, da es das andere wieder hervorbringt. In einem Geist der dies verstanden hat gibt es keinen Grund mehr nach "unnötigem" weltlichen Verlangen.
 
 
 
@@ -64,13 +64,13 @@ Ich will eine erfolgreiche Karriere damit ich glücklich bin ...
 
 # Verursacht folgende Probleme in der Meditation:
 
-  + [[7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes]]
+  + Ablenkungen, Vergessen und Abschweifen des Geistes
 
-  + [[7 Probleme/Schmerzen und Unbehagen]]
+  + Schmerzen und Unbehagen
 
-  + [7 Probleme/Ungeduld]({{< ref "/pages/7 Probleme/Ungeduld" >}})
+  + [Ungeduld]({{< ref "/pages/7 Probleme/Ungeduld" >}})
 
-  + [[7 Probleme/Monkey-Mind]]
+  + Monkey-Mind
 
 
 

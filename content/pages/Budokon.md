@@ -17,6 +17,6 @@ Budokon besteht aus den Yoga, Free Form Movement, Calesthenics, Martial Arts
 
 
 
-[[Budokon Origin Story (Essay)]]
+Budokon Origin Story (Essay)
 
 
