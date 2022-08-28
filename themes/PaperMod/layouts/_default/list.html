@@ -38,6 +38,7 @@
 
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
+{{- if (or (.Param "ListSubpages") (not (path.Split $page.Title).Dir)) }}
 
 {{- $class := "post-entry" }}
 
@@ -83,6 +84,8 @@
   </nav>
 </footer>
 {{- end }}
+
+{{- end }}{{/* end of ListSubpages */}}
 
 {{- end }}{{/* end profileMode */}}
 
