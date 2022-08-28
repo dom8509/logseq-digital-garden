@@ -19,11 +19,11 @@ lastMod: 2022-08-24
 
 **Elefant:** Der Geist
 
-**Schwarze Farbe des Elefanten:** [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}}) und 7 Probleme
+**Schwarze Farbe des Elefanten:** [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}}) und [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
 **Affe:** Zerstreuung der Aufmerksamkeit
 
-**Schwarze Farbe des Affen:** Ablenkungen, Vergessen und Abschweifen des Geistes
+**Schwarze Farbe des Affen:** [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
 **Hase:** subtile Dumpfheit
 
@@ -61,7 +61,7 @@ lastMod: 2022-08-24
 
 # Siehe auch:
 
-  + 7 Probleme
+  + [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
   + [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})
 

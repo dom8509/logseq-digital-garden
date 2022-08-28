@@ -1,33 +1,31 @@
 ---
-title: 7 Probleme/Ungeduld
+title: 7 Probleme/Prokrastination
 tags:
 categories:
 date: 2022-08-12
-lastMod: 2022-08-24
+lastMod: 2022-08-28
 ---
 zurück: [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
 
 
-Ungedult entsteht durch die selben Hindernisse wie [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}}) . Der Unterschied ist jedoch, dass sich Ungeduld in Form von **emotionalem Unbehagen** manifestiert und nicht als ablenkender Gedanke oder Erinnerung.
+Prokrastination entsteht entsteht durch Traegheit, wenn man nicht voll davon überzeugt ist, dass die eigene Meditationspraxis die Zeit und Mühen nicht wert ist. Die Kosten übersteigen rechtfertigen einfach nicht den nutzen. Auch Zweifel an die eigene Praxis an die eigene Praxis und deren Erfolg erzeugt einen inneren Widerstand der uns davon abhält regelmäßig zu praktizieren.
 
 
 
 # Hervorgerufen durch:
 
-  + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
-
-  + [Abneigung]({{< ref "/pages/5 Hindernisse/Abneigung" >}})
+  + [Trägheit und Lethargie]({{< ref "/pages/5 Hindernisse/Trägheit und Lethargie" >}})
 
   + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
 
-
+  + 
 
 # Stufen:
 
-  + siehe Stufe 2: Unterbrochene Aufmerksamkeit – geistiges Abschweifen überwinden
+  + Stufe 1: Eine Praxis etablieren
 
-  + 
+
 
 # Siehe auch:
 

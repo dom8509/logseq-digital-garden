@@ -64,13 +64,13 @@ Ich will eine erfolgreiche Karriere damit ich glücklich bin ...
 
 # Verursacht folgende Probleme in der Meditation:
 
-  + Ablenkungen, Vergessen und Abschweifen des Geistes
+  + [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
-  + Schmerzen und Unbehagen
+  + [Schmerzen und Unbehagen]({{< ref "/pages/7 Probleme/Schmerzen und Unbehagen" >}})
 
   + [Ungeduld]({{< ref "/pages/7 Probleme/Ungeduld" >}})
 
-  + Monkey-Mind
+  + [Monkey-Mind]({{< ref "/pages/7 Probleme/Monkey-Mind" >}})
 
 
 
@@ -78,6 +78,14 @@ Ich will eine erfolgreiche Karriere damit ich glücklich bin ...
 
 **Namespace [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})**
 
+  + [Abneigung]({{< ref "/pages/5 Hindernisse/Abneigung" >}})
+
+  + [Trägheit und Lethargie]({{< ref "/pages/5 Hindernisse/Trägheit und Lethargie" >}})
+
+  + [Unruhe aufgrund von Gewissensbissen und Sorgen]({{< ref "/pages/5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen" >}})
+
   + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
+
+  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
 
 

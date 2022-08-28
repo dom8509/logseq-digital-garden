@@ -1,33 +1,35 @@
 ---
-title: 7 Probleme/Ungeduld
+title: 7 Probleme/Dumpfheit, Benommenheit und Schlaefrigkeit
 tags:
 categories:
-date: 2022-08-12
-lastMod: 2022-08-24
+date: 2022-08-24
+lastMod: 2022-08-28
 ---
 zurück: [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
 
 
-Ungedult entsteht durch die selben Hindernisse wie [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}}) . Der Unterschied ist jedoch, dass sich Ungeduld in Form von **emotionalem Unbehagen** manifestiert und nicht als ablenkender Gedanke oder Erinnerung.
+Dumpfheit Benommenheit und Schlaefrigkeit wird meist durch Lethargie während der Praxis verursacht. Der Geist wendet weniger Energie dafür auf das die Aufmerksamkeit klar uns stabil zu halten und schaltet in einen Energiesparmodus.
 
 
 
 # Hervorgerufen durch:
 
-  + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
-
-  + [Abneigung]({{< ref "/pages/5 Hindernisse/Abneigung" >}})
-
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
+  + [Trägheit und Lethargie]({{< ref "/pages/5 Hindernisse/Trägheit und Lethargie" >}})
 
 
 
 # Stufen:
 
-  + siehe Stufe 2: Unterbrochene Aufmerksamkeit – geistiges Abschweifen überwinden
+  + starke Dumpfheit
 
-  + 
+    + Stufe 3 - 4
+
+  + subtile Dumpfheit
+
+    + Stufe 5
+
+
 
 # Siehe auch:
 

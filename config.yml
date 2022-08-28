@@ -1,5 +1,5 @@
 baseURL: https://dom8509.github.io
-languageCode: en-us
+languageCode: de-DE
 title: movement.king.dom
 theme: "PaperMod"
 
@@ -14,7 +14,8 @@ params:
     - name: "github"
       url: "https://github.com/dom8509"
   ShowReadingTime: true
-  ListSubpages: false
+  ListSubpages: true
+  disableAnchoredHeadings: false
   author: "Dominik Stamm"
   contact: "movement.king.dom@icloud.com"
   feedlinks: true

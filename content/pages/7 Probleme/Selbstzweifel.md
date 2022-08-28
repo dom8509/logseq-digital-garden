@@ -1,33 +1,29 @@
 ---
-title: 7 Probleme/Ungeduld
+title: 7 Probleme/Selbstzweifel
 tags:
 categories:
-date: 2022-08-12
-lastMod: 2022-08-24
+date: 2022-08-13
+lastMod: 2022-08-28
 ---
 zurück: [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
 
 
-Ungedult entsteht durch die selben Hindernisse wie [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}}) . Der Unterschied ist jedoch, dass sich Ungeduld in Form von **emotionalem Unbehagen** manifestiert und nicht als ablenkender Gedanke oder Erinnerung.
+Zweifel an uns selbst der aus [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}}) entsteht.
 
 
 
 # Hervorgerufen durch:
 
-  + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
-
-  + [Abneigung]({{< ref "/pages/5 Hindernisse/Abneigung" >}})
-
   + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
 
-
+  + 
 
 # Stufen:
 
-  + siehe Stufe 2: Unterbrochene Aufmerksamkeit – geistiges Abschweifen überwinden
+  + siehe Stufe 1: Eine Praxis etablieren
 
-  + 
+
 
 # Siehe auch:
 
@@ -48,3 +44,13 @@ Ungedult entsteht durch die selben Hindernisse wie [Ablenkungen, Vergessen und A
   + [Dumpfheit, Benommenheit und Schlaefrigkeit]({{< ref "/pages/7 Probleme/Dumpfheit, Benommenheit und Schlaefrigkeit" >}})
 
 
+
+
+
+## Hervorgerufen durch:
+
+  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zwäfel" >}})
+
+## Gegenmittel:
+
+  + siehe Stufe 1: Eine Praxis etablieren
