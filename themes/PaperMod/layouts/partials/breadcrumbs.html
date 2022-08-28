@@ -1,6 +1,5 @@
 <div class="breadcrumbs">
-    {{- $pagePath := path.Split .Title }}
-    {{- $parentPath := (strings.TrimSuffix "/" $pagePath.Dir) }}
+    {{- $parentPath := .Params.namespace }}
 
     <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
 
