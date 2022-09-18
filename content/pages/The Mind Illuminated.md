@@ -1,11 +1,9 @@
 ---
-alias:
-- TMI
-tags:
+title: The Mind Illuminated
+tags: 
 - Meditation
 - Culadasa
-title: The Mind Illuminated
-categories:
+categories: 
 date: 2022-05-12
 lastMod: 2022-08-24
 ---
@@ -33,38 +31,35 @@ lastMod: 2022-08-24
 
 **Kurven des Weges:** Zwischen den Etappen vor und zurück springen
 
-
-
 # Stufen:
 
-  + Stufe 1: Eine Praxis etablieren
++ Stufe 1: Eine Praxis etablieren
 
-  + Stufe 2: Unterbrochene Aufmerksamkeit – geistiges Abschweifen überwinden
++ Stufe 2: Unterbrochene Aufmerksamkeit – geistiges Abschweifen überwinden
 
-  + Stufe 3: Ausdehnen der Aufmerksamkeit – das Vergessen überwinden
++ Stufe 3: Ausdehnen der Aufmerksamkeit – das Vergessen überwinden
 
-  + Stufe 4: Kontinuierliche Aufmerksamkeit – große Ablenkung und starke Dumpfheit überwinden
++ Stufe 4: Kontinuierliche Aufmerksamkeit – große Ablenkung und starke Dumpfheit überwinden
 
-  + Stufe 5: Subtile Dumpfheit überwinden und die Achtsamkeit steigern
++ Stufe 5: Subtile Dumpfheit überwinden und die Achtsamkeit steigern
 
-  + Stufe 6: Subtile Ablenkungen unter Kontrolle bringen
++ Stufe 6: Subtile Ablenkungen unter Kontrolle bringen
 
-  + Stufe 7: Ausschließliche Aufmerksamkeit und das Vereinigen des Geistes
++ Stufe 7: Ausschließliche Aufmerksamkeit und das Vereinigen des Geistes
 
-  + Stufe 8: Geistige Geschmeidigkeit und das Befrieden der Sinne
++ Stufe 8: Geistige Geschmeidigkeit und das Befrieden der Sinne
 
-  + Stufe 9: Geistige und körperliche Geschmeidigkeit – intensive meditative Freude abmildern
++ Stufe 9: Geistige und körperliche Geschmeidigkeit – intensive meditative Freude abmildern
 
-  +  Ruhe und Gleichmut
-
-
++  Ruhe und Gleichmut
 
 # Siehe auch:
 
-  + [7 Probleme]({{< ref "/pages/7 Probleme" >}})
++ [7 Probleme]({{< ref "/pages/7 Probleme" >}})
 
-  + [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})
++ [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})
 
-  + Wie das Abschweifen des Geistes entsteht
++ Wie das Abschweifen des Geistes entsteht
 
-  + Das Zusammenspiel von peripherer Wahrnehmung und stabiler Aufmerksamkeit
++ Das Zusammenspiel von peripherer Wahrnehmung und stabiler Aufmerksamkeit
+

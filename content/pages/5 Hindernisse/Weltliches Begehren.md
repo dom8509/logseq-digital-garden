@@ -1,14 +1,12 @@
 ---
 title: Weltliches Begehren
 namespace: 5 Hindernisse
-tags:
-categories:
+tags: 
+categories: 
 date: 2022-08-13
 lastMod: 2022-08-24
 ---
 zurück: [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})
-
-
 
 # Hintergrund
 
@@ -21,8 +19,6 @@ Auf biochemisch Ebene geschieht dies über die Ausschüttung von **Dopamin** in 
 
 Im laufe der Jahrtausende haben sich unsere Lebensumstände jedoch massiv geändert und gerade in der heutigen Zeit versuchen Firmen dieses natürliche Verlangen mehr und mehr auszunutzen und Geld daraus zu schlagen. Wir essen fettigeres Essen, brauchen größere Häuser und Autos, wollen mehr Macht, mehr Anerkennung und sind auf der ständigen Suche nach Vergnügen. Unser streben nach weltlichem Verlangen ist also mittlerweile so massiv gestört, dass wir gar nicht mehr wissen was eigentlich noch notwendig zum Überleben ist. Was wirklich **essentiell** ist.
 
-
-
 ## Die 8 weltlichen Dharmas
 
 In der buddhistischen Lehre wird das weltliche Begehren in die **8 weltlichen Dharmas**
@@ -33,8 +29,6 @@ In der buddhistischen Lehre wird das weltliche Begehren in die **8 weltlichen Dh
 gruppiert. Wir streben hier immer nach dem für uns Lebensnotwendigen, wie z.B. Gewinn bzw. die Anhäufung von Besitz, und versuchen gleichzeitig das Gegenteil, also deren Verlust zu vermeiden.
 
 Man erkennt schnell, dass die **8 weltlichen Dharmas** in sich im Konflikt miteinander stehen. Wir wollen Besitz anhäufen, aber deren Verlust meiden. Wir wollen Vergnügen, aber keinen Schmerz erfahren.
-
-
 
 ## Was sind die Folgen
 
@@ -47,13 +41,9 @@ Trotzdem werden wir gesellschaftlich dazu gedrängt nach immer mehr zu streben. 
 
 Wie bereits erwähnt kann das eine nicht ohne das andere existieren. Es ist daher unsere Unwissenheit darüber, dass das eine das andere bedingt, die uns Leiden bringt. Wenn wir viel gewinnen wollen müssen wir auch in Kauf nehmen, alles zu verlieren. Wenn wir Liebe und Freude in unser Leben lassen wollen, dann müssen wir auch Trauer und Verlust akzeptieren. Es ist unsere Unwissenheit darüber, dass alles vergänglich ist, insbesondere das weltliche, das unser Leiden verursacht und das wir verstehen müssen. Das ist auch die Kernaussage der [4 edlen Wahrheiten](Die 4 edlen Wahrheiten).
 
-
-
 ## Unification of Mind
 
 Der Meditative Faktor der uns dabei hilft, das weltliche Begehren zu überwinden ist Unification of Mind. Wenn wir im tiefsten inneren verstehen, dass alles eins ist, dass z.B. Freude und Leid, Besitz und Verlust unweigerlich zusammen gehören und nur 2 Seiten der selben Medaille sind, dann können wir sogar das auf den erstem Blick unangenehm Akzeptieren und wertschätzen, da es das andere wieder hervorbringt. In einem Geist der dies verstanden hat gibt es keinen Grund mehr nach "unnötigem" weltlichen Verlangen.
-
-
 
 # Beispiele für weltliches Begehren:
 
@@ -61,32 +51,22 @@ Ich brauche ein schönes haus ...
 
 Ich will eine erfolgreiche Karriere damit ich glücklich bin ...
 
-
-
 # Verursacht folgende Probleme in der Meditation:
 
-  + [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
++ [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
-  + [Schmerzen und Unbehagen]({{< ref "/pages/7 Probleme/Schmerzen und Unbehagen" >}})
++ [Schmerzen und Unbehagen]({{< ref "/pages/7 Probleme/Schmerzen und Unbehagen" >}})
 
-  + [Ungeduld]({{< ref "/pages/7 Probleme/Ungeduld" >}})
++ [Ungeduld]({{< ref "/pages/7 Probleme/Ungeduld" >}})
 
-  + [Monkey-Mind]({{< ref "/pages/7 Probleme/Monkey-Mind" >}})
-
-
++ [Monkey-Mind]({{< ref "/pages/7 Probleme/Monkey-Mind" >}})
 
 # Siehe auch:
 
-**Namespace [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})**
-
-  + [Abneigung]({{< ref "/pages/5 Hindernisse/Abneigung" >}})
-
-  + [Trägheit und Lethargie]({{< ref "/pages/5 Hindernisse/Trägheit und Lethargie" >}})
-
-  + [Unruhe aufgrund von Gewissensbissen und Sorgen]({{< ref "/pages/5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen" >}})
-
-  + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
-
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
-
+***Namespace [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})***
++ [5 Hindernisse/Abneigung]({{< ref "/pages/5 Hindernisse/Abneigung" >}})
++ [5 Hindernisse/Trägheit und Lethargie]({{< ref "/pages/5 Hindernisse/Trägheit und Lethargie" >}})
++ [5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen]({{< ref "/pages/5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen" >}})
++ [5 Hindernisse/Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
++ [5 Hindernisse/Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 

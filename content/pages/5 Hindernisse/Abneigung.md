@@ -1,14 +1,12 @@
 ---
 title: Abneigung
 namespace: 5 Hindernisse
-tags:
-categories:
+tags: 
+categories: 
 date: 2022-08-13
 lastMod: 2022-08-28
 ---
 zurück: [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})
-
-
 
 # Was versteht man unter Abneigung?
 
@@ -26,13 +24,9 @@ Aversion oder Abneigung ist ein negativer Zustand des Geistes und im Grunde jede
 * Selbstvorwürfe 
 * Langeweile
 
-
-
 ### Warum verspüren wir Abneigung?
 
 Biologisch betrachtet hilft uns Abneigung beim überleben da er uns dazu motiviert unangenehmen Dingen aus dem Weg zu gehen die im schlimmsten Fall sogar lebensbedrohlich für uns sein könnten. Es ist also ein Schutzmechanismus des Menschen.
-
-
 
 ## Moderne Gesellschaft
 
@@ -42,13 +36,9 @@ Biochemisch ist dies wieder mit der Ausschüttung von Dopamin und anderen Botens
 
 Weitere Grunde sind unter anderem ein gestörtes Selbstbild, Vorurteile die z.B. durch Massenmedien verbreitet werden und auch soziale Vorurteile, was unter anderem Religion mit einschließt.
 
-
-
 ## Glück & Zufriedenheit
 
 Um die Aversion zu überwinden muss ein inneres Gefühl von Glück und Zufriedenheit kultivieren. In einem Geist voller Glück und Zufriedenheit ist keine kein Platz mehr für Aversion.
-
-
 
 # Beispiele für Aversion:
 
@@ -60,32 +50,22 @@ Ich will heute nicht krank sein ...
 
 Ich ertrage diesen Ort nicht mehr ...
 
-
-
 # Verursacht folgende Probleme in der Meditation:
 
-  + [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
++ [Ablenkungen, Vergessen und Abschweifen des Geistes]({{< ref "/pages/7 Probleme/Ablenkungen, Vergessen und Abschweifen des Geistes" >}})
 
-  + [Schmerzen und Unbehagen]({{< ref "/pages/7 Probleme/Schmerzen und Unbehagen" >}})
++ [Schmerzen und Unbehagen]({{< ref "/pages/7 Probleme/Schmerzen und Unbehagen" >}})
 
-  + [Monkey-Mind]({{< ref "/pages/7 Probleme/Monkey-Mind" >}})
++ [Monkey-Mind]({{< ref "/pages/7 Probleme/Monkey-Mind" >}})
 
-  + [Ungeduld]({{< ref "/pages/7 Probleme/Ungeduld" >}})
-
-
++ [Ungeduld]({{< ref "/pages/7 Probleme/Ungeduld" >}})
 
 # Siehe auch:
 
-**Namespace [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})**
-
-  + [Abneigung]({{< ref "/pages/5 Hindernisse/Abneigung" >}})
-
-  + [Trägheit und Lethargie]({{< ref "/pages/5 Hindernisse/Trägheit und Lethargie" >}})
-
-  + [Unruhe aufgrund von Gewissensbissen und Sorgen]({{< ref "/pages/5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen" >}})
-
-  + [Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
-
-  + [Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
-
+***Namespace [5 Hindernisse]({{< ref "/pages/5 Hindernisse" >}})***
++ [5 Hindernisse/Abneigung]({{< ref "/pages/5 Hindernisse/Abneigung" >}})
++ [5 Hindernisse/Trägheit und Lethargie]({{< ref "/pages/5 Hindernisse/Trägheit und Lethargie" >}})
++ [5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen]({{< ref "/pages/5 Hindernisse/Unruhe aufgrund von Gewissensbissen und Sorgen" >}})
++ [5 Hindernisse/Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
++ [5 Hindernisse/Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 
