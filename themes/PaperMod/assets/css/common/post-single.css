@@ -437,6 +437,17 @@ h6:hover .anchor {
     margin-top: 50px;
 }
 
+.backlinks a,
+.related a {
+    color: var(--secondary);
+}
+
+.backlinks h3,
+.related h3 {
+    color: var(--secondary);
+    padding-bottom: 10px;
+}
+
 .backlinks ol,
 .backlinks ul,
 .related ol,

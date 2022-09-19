@@ -4,31 +4,26 @@
   {{ end }} {{ if gt (len $backlinks) 0 }}
   
   <aside class="backlinks">
-    <hr>
-    <h3>Backlinks</h3>
+    {{/*  <hr>  */}}
+    <h3>Backlinks:</h3>
     <div>
-      <ul>
         {{ range $backlinks }}
-        <li class="capitalize"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <a class="capitalize"><a href="{{ .RelPermalink }}">↩ {{ .Title }}</a></p>
         {{ end }}
-      </ul>
     </div>
   </aside>
   {{ else }}
   <aside>
-    <h4>No notes link to this note</h4>
+    <h4>No notes link to this note</h4>↩
   </aside>
   {{ end }}
   
   <aside class="related">
     {{ $related := .Site.RegularPages.Related . | complement $backlinks | first 3
     -}} {{ with $related -}}
-    <hr>
-    <h3>slightly related</h3>
-    <ul>
+    <h3>slightly related:</h3>
       {{ range . -}}
-      <li class="capitalize"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      <a class="capitalize"><a href="{{ .RelPermalink }}">↪ {{ .Title }}</a></p>
       {{ end -}}
-    </ul>
     {{ end -}}
   </aside>
