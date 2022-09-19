@@ -1,9 +1,11 @@
 ---
 title: Metta Meditation
 tags: 
+- Meditation
 categories: 
+- Meditation
 date: 2022-09-02
-lastMod: 2022-09-03
+lastMod: 2022-09-19
 ---
 **Metta** ist Pali und bedeutet so viel wie Freundlichkeit, Güte, aktives Interesse an Anderen, Liebe, Freundschaft oder auch Sympathie. Metta-Meditation ist eine von Buddha gelehrte Meditationstechnik mit dem Ziel, den Geist durch das Kultivieren von liebender Güte und Mitgefühl in einen Zustand von Unbeschwertheit, inneren Frieden, Liebe und Glück zu versetzen.
 
