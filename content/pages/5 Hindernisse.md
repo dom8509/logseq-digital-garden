@@ -14,7 +14,7 @@ zurück: [The Mind Illuminated]({{< ref "/pages/The Mind Illuminated" >}})
 + [5 Hindernisse/Weltliches Begehren]({{< ref "/pages/5 Hindernisse/Weltliches Begehren" >}})
 + [5 Hindernisse/Zweifel]({{< ref "/pages/5 Hindernisse/Zweifel" >}})
 
-{{<diagram name="2022-08-24-10-37-12" type="excalidraw">}}
+{{<kroki_diagram name="2022-08-24-10-37-12" type="excalidraw">}}
 {
   "type": "excalidraw",
   "version": 2,
@@ -611,5 +611,5 @@ zurück: [The Mind Illuminated]({{< ref "/pages/The Mind Illuminated" >}})
     "viewBackgroundColor": "#FFF"
   }
 }
-{{</diagram>}}
+{{</kroki_diagram>}}
 
