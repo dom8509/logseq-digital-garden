@@ -443,7 +443,9 @@ h6:hover .anchor {
 }
 
 .backlinks h3,
-.related h3 {
+.related h3,
+.backlinks h4,
+.related h4 {
     color: var(--secondary);
     padding-bottom: 10px;
 }

@@ -1,0 +1,52 @@
+{{ $echart := newScratch }}
+{{ $echart.Set "diagramName" (.Get "name") }}
+{{ $echart.Set "diagramWidth" (.Get "width") }}
+{{ $echart.Set "diagramHeight" (.Get "height") }}
+{{ $echart.Set "outputImgNodeID" ($echart.Get "diagramName") }}
+{{ $echart.Set "srcTextNodeID" (printf "%s_echart_src" ($echart.Get "diagramName")) }}
+
+<div id="{{ $echart.Get "srcTextNodeID" }}" style="display: none;">
+{{ .Inner }}
+</div>
+{{ $echart.Set "outputType" "svg" }}
+
+<div id="{{ $echart.Get "outputImgNodeID" }}">
+Rendering EChart...
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.3.3/dist/echarts.min.js"></script>
+<script type="text/javascript">
+    function parseStringToJson(str) {
+        const formatted = str.replaceAll('\n', '').replaceAll(' ', '')
+        return eval('(' + formatted + ')')
+    }
+
+    function getImgData(codeStr, width, height) {
+        const chartDiv = document.createElement('div')
+        chartDiv.style.width = width
+        chartDiv.style.height = height
+        const chartInstance = echarts.init(chartDiv, null, {
+          renderer: 'svg'
+        })
+        const defaultOptions = parseStringToJson(codeStr)
+        chartInstance.setOption(defaultOptions)
+        chartInstance.resize({
+            width: width,
+            height: height
+          })
+        return chartInstance.getDataURL({
+          type: 'svg',
+        })
+    }
+
+    function renderEchartImage(code, width, height, outputNode) {
+        outputNode.innerHTML = `<img src=${getImgData(code, width, height)} style="width:100%;height:100%;"></img>`
+    }
+
+    renderEchartImage(
+        document.getElementById(`{{ $echart.Get "srcTextNodeID" }}`).innerText,
+        `{{ $echart.Get "diagramWidth" }}`,
+        `{{ $echart.Get "diagramHeight" }}`,
+        document.getElementById(`{{ $echart.Get "outputImgNodeID" }}`)
+    )  
+</script>
