@@ -6,9 +6,9 @@
   <aside class="backlinks">
     {{/*  <hr>  */}}
     {{ if eq (len $backlinks) 1 }}
-    <h3>{{ len $backlinks }} verlinkte Referenz:</h3>
+    <h3>{{ len $backlinks }} {{ i18n "linked_ref" | default "linked reference" }}:</h3>
     {{ else }}
-    <h3>{{ len $backlinks }} verlinkte Referenzen:</h3>
+    <h3>{{ len $backlinks }} {{ i18n "linked_refs" | default "linked references" }}:</h3>
     {{ end }}
     <div>
         {{ range $backlinks }}
@@ -18,14 +18,14 @@
   </aside>
   {{ else }}
   <aside class="backlinks">
-    <h4>Keine verlinkten Referenzen zu dieser Seite</h4>
+    <h4>{{ i18n "no_linked_refs" }}</h4>
   </aside>
   {{ end }}
   
   <aside class="related">
     {{ $related := .Site.RegularPages.Related . | complement $backlinks | first 3
     -}} {{ with $related -}}
-    <h3>Siehe auch:</h3>
+    <h3>{{ i18n "related" | default "Slightly related" }}:</h3>
       {{ range . -}}
       <a class="capitalize"><a href="{{ .RelPermalink }}">🔗 {{ .Title }}</a></p>
       {{ end -}}

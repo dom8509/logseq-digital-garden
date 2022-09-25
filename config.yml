@@ -16,6 +16,7 @@ params:
   ShowReadingTime: true
   ListSubpages: false
   disableAnchoredHeadings: false
+  ShowBreadCrumbs: true
   author: "Dominik Stamm"
   contact: "movement.king.dom@icloud.com"
   feedlinks: true
